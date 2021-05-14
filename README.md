@@ -1,3 +1,5 @@
+# Reddit PageRank Visualizer
+
 REPO DESCRIPTION:
 The CS225 folder contains the code for PNGs, HSLApixels, RGB_HSL, and Animation (for our force-directed graph gif). The SpringEmbedder folder contains our code for a general force directed graph along with a spring embedded force directed graph which inherits from force directed graph. Our tests folder and util folder contain our necessary code for running and testing the test cases in test.cpp. Our documents folder contains files such as the proposal, the team contract, the development log, etc.
 Preprocessing.py contains the code for processing the Stanford Reddit hyperlink dataset (without lengths) into a tsv file.
